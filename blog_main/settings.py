@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'django_browser_reload',
     'crispy_forms',
     'crispy_bootstrap4',
+    'dashboard',
+    
 ]
 
 MIDDLEWARE = [
